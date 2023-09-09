@@ -8,7 +8,7 @@ class GithubCicdActionsApplicationTests {
 
 	@Test
 	void contextLoads() {
-		System.out.println("Test");
+		System.out.println("Test1");
 	}
 
 }
